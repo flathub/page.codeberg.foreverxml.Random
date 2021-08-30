@@ -70,7 +70,7 @@
         },
         {
             "name" : "random",
-            "builddir" : true,
+            "builddir" :true,
             "buildsystem" : "meson",
             "sources" : [
                 {
