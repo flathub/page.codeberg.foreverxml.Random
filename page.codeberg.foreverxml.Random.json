@@ -1,7 +1,7 @@
 {
     "app-id" : "page.codeberg.foreverxml.Random",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "40",
+    "runtime-version" : "master",
     "sdk" : "org.gnome.Sdk",
     "command" : "randomgtk",
     "finish-args" : [
@@ -64,7 +64,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/GNOME/libadwaita.git",
-                    "commit" : "03f159488ec3b8e3ea4c3c2daa9c408b071d512d"
+                    "branch" : "main"
                 }
             ]
         },
@@ -76,7 +76,7 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "tag": "v0.9"
+                    "tag": "v1.0"
                 }
             ]
         }
