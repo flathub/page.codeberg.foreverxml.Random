@@ -81,13 +81,13 @@
         },
         {
             "name" : "random",
-            "builddir" :true,
+            "builddir" : true,
             "buildsystem" : "meson",
             "sources" : [
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "commit": "02d53eb"
+                    "commit": "4f37a81a"
                 }
             ]
         }
