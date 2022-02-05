@@ -87,7 +87,7 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "commit": "c324f31"
+                    "commit": "02d53eb"
                 }
             ]
         }
