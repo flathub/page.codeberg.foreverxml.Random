@@ -64,7 +64,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/GNOME/libadwaita.git",
-                    "tag": "1.0.0.alpha.4"
+                    "tag": "1.0.0.beta.1"
                 }
             ]
         },
@@ -76,7 +76,7 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "tag": "v1.1f"
+                    "commit": "c324f31"
                 }
             ]
         }
