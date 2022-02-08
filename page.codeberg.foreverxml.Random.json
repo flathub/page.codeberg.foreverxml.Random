@@ -3,7 +3,7 @@
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "41",
     "sdk" : "org.gnome.Sdk",
-    "command" : "randomgtk",
+    "command" : "randomgtk", // rebuild comment
     "finish-args" : [
         "--share=ipc",
         "--socket=fallback-x11",
@@ -96,7 +96,7 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "commit": "4f37a81a"
+                    "commit": "745c7b2edc8bee"
                 }
             ]
         }
