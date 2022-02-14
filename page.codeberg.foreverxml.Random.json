@@ -92,7 +92,7 @@
             "name" : "random",
             "builddir" : true,
             "buildsystem" : "meson",
-            "sources" : [
+            "sources" : [ 
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
