@@ -96,7 +96,7 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/foreverxml/random.git",
-                    "tag": "v1.2"
+                    "tag": "v1.3"
                 }
             ]
         }
