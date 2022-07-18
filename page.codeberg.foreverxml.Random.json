@@ -3,6 +3,7 @@
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "master", 
     "sdk" : "org.gnome.Sdk",
+    "sdk-version" : "42",
     "command" : "randomgtk",
     "finish-args" : [
         "--share=ipc",
